@@ -3,7 +3,7 @@ The South Pole Telescope (SPT) is a 10-meter diameter gregorian telescope with c
 
 The SPT-3G Wide survey is a 6,000 square-degree extension of the SPT-3G Main and Summer surveys in the Southern hemisphere. The observation campaign ran for most of the 2024 observing season, with the residual observing time dedicated to the Euclid Deep Field-South field (a paper I co-authored [here](https://arxiv.org/abs/2506.00298)).
 
-I analyzed the SPT-3G Wide survey to detect galaxy clusters (see my point source work [here](https://github.com/ahryciuk/The-SPT-3G-Wide-Survey-Preliminary-Point-Source-Catalog/tree/main)). The survey is broken up into nine fields with the alphabet labels shown below.
+I analyzed the SPT-3G Wide survey to detect galaxy clusters (see [my data analysis with point sources](https://github.com/ahryciuk/The-SPT-3G-Wide-Survey-Preliminary-Point-Source-Catalog/tree/main)). The survey is broken up into nine fields with the alphabet labels shown below.
 
 <p align="center">
   <img src="asdfj" width="200">
