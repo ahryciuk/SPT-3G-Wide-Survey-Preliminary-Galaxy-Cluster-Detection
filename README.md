@@ -25,7 +25,7 @@ Galaxy clusters are detectable at millimeter-wavelengths through their hot, ioni
 </p>
 
 
-I detected detection involves careful construction of an optimal filter similar to [my work with point sources](https://github.com/ahryciuk/The-SPT-3G-Wide-Survey-Preliminary-Point-Source-Catalog/tree/main). There are two main differences. First, the spatial profile of galaxy clusters may extend beyond point-like. SPT uses a $\beta$-profile with core sizes ranging from 0.25-arcmin to 3-arcmin in steps of 0.25-arcmin (cite). Second, rather than rely on single-frequency-band detections, the tSZ signal-to-noise is maximized by combining all three frequency bands. The null frequency at ~217 GHz offers great foreground rejection of dusty signals that look like tSZ from galaxy clusters. 
+Detection involves careful construction of an optimal filter similar to [my work with point sources](https://github.com/ahryciuk/The-SPT-3G-Wide-Survey-Preliminary-Point-Source-Catalog/tree/main). There are two main differences. First, the spatial profile of galaxy clusters may extend beyond point-like. SPT uses a $\beta$-profile with core sizes ranging from 0.25-arcmin to 3-arcmin in steps of 0.25-arcmin (cite). Second, rather than rely on single-frequency-band detections, the tSZ signal-to-noise is maximized by combining all three frequency bands. The null frequency at ~217 GHz offers great foreground rejection of dusty signals that look like tSZ from galaxy clusters. 
 
 ## Summary of Catalog Results:
 
