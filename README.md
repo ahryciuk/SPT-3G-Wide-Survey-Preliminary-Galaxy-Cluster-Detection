@@ -18,7 +18,12 @@ Galaxy clusters are gravitationally-bound collections of galaxies that have form
 ## Galaxy Clusters at Millimeter-Wavelengths:
 Galaxy clusters are detectable at millimeter-wavelengths through their hot, ionized intracluster medium (ICM), which up-scatters low-energy Cosmic Microwave Background (CMB) photons that act as a backlight. This effect is called the thermal Sunyaev-Zeldovich effect, and is represented for the South Pole Telescope band centers below.
 
-[tsz spectrum plot]
+<p align="center">
+  <img src="summary_plots/tSZ_spectrum.PNG" width="300">
+  <br>
+  <em>The thermal Sunyaev-Zeldovich effect is the up-scatter of low-energy CMB photons from the hot, ionized plasma of the intracluster medium within galaxy clusters. The effect causes a spectral distortion of the CMB blackbody signature with a null frequency near 217 GHz. The three dashed vertical lines are the frequencies of the SPT-3G band centers. Figure from Hryciuk 2025.</em>
+</p>
+
 
 I detected detection involves careful construction of an optimal filter similar to [my work with point sources](https://github.com/ahryciuk/The-SPT-3G-Wide-Survey-Preliminary-Point-Source-Catalog/tree/main). There are two main differences. First, the spatial profile of galaxy clusters may extend beyond point-like. SPT uses a $\beta$-profile with core sizes ranging from 0.25-arcmin to 3-arcmin in steps of 0.25-arcmin (cite). Second, rather than rely on single-frequency-band detections, the tSZ signal-to-noise is maximized by combining all three frequency bands. The null frequency at ~217 GHz offers great foreground rejection of dusty signals that look like tSZ from galaxy clusters. 
 
